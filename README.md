@@ -1,7 +1,6 @@
 👋 Hi, I’m @kushal-rajkarnikar
 👀 I’m interested in Human Computer Interaction
 🌱 I’m currently learning Game Development
-💞️ I’m looking to collaborate on ...
 📫 How to reach me 
 
 <!---
